@@ -1,4 +1,4 @@
-# Lakshadweep-and-Maldives-SQL-Analysis-Case-Study-
+# Lakshadweep-and-Maldives-SQL-Analysis-Case-Study
 
 Your challenge is to craft SQL queries to extract insights from the Maldives Vs Lakshadweep database.
 
