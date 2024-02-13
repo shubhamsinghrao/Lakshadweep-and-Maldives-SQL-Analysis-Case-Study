@@ -1,0 +1,1 @@
+# Lakshadweep-and-Maldives-SQL-Analysis-Case-Study-
