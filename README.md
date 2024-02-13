@@ -3,7 +3,7 @@
 Your challenge is to craft SQL queries to extract insights from the Maldives Vs Lakshadweep database.
 
 TABLES
-Destination
+Destination                               
 TouristAttractions
 TouristArrivals
 IndianTourists
