@@ -2,16 +2,24 @@
 
 Your challenge is to craft SQL queries to extract insights from the Maldives Vs Lakshadweep database.
 
-TABLES
-Destination                               
+## TABLES
+
+Destination  
+
 TouristAttractions
+
 TouristArrivals
+
 IndianTourists
 
-QUESTIONS
+## QUESTIONS
 
-1)Retrieve the number of visitors to the Maldives in 2019?
-2)Retrieve the average budget per day and best time to visit for destinations with more than 10,000 tourists in 2022?
-3)Retrieve the unique features of tourist attractions in Lakshadweep?
-4)Retrieve the number of Indian tourists who visited the Maldives in 2021?
-5)Find the destinations with the highest tourism revenue in 2022?
+1) Retrieve the number of visitors to the Maldives in 2019?
+
+2) Retrieve the average budget per day and best time to visit for destinations with more than 10,000 tourists in 2022?
+
+3) Retrieve the unique features of tourist attractions in Lakshadweep?
+
+4) Retrieve the number of Indian tourists who visited the Maldives in 2021?
+
+5) Find the destinations with the highest tourism revenue in 2022?
